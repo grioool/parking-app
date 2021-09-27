@@ -1,0 +1,304 @@
+2021-09-27 09:42:51 INFO  [Car № 11] Car:24 - Car № 11 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 11] ParkingPlace:20 - Parking place № 0is used by Car № 11
+2021-09-27 09:42:51 INFO  [Car № 15] Car:24 - Car № 15 took parking place № 4Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 15] ParkingPlace:20 - Parking place № 4is used by Car № 15
+2021-09-27 09:42:51 INFO  [Car № 14] Car:24 - Car № 14 took parking place № 3Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 14] ParkingPlace:20 - Parking place № 3is used by Car № 14
+2021-09-27 09:42:51 INFO  [Car № 12] Car:24 - Car № 12 took parking place № 2Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 12] ParkingPlace:20 - Parking place № 2is used by Car № 12
+2021-09-27 09:42:51 INFO  [Car № 13] Car:24 - Car № 13 took parking place № 1Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 13] ParkingPlace:20 - Parking place № 1is used by Car № 13
+2021-09-27 09:42:51 INFO  [Car № 11] Car:28 - Car № 11 : 0 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 16] Car:24 - Car № 16 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 16] ParkingPlace:20 - Parking place № 0is used by Car № 16
+2021-09-27 09:42:51 INFO  [Car № 16] Car:28 - Car № 16 : 0 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 17] Car:24 - Car № 17 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 17] ParkingPlace:20 - Parking place № 0is used by Car № 17
+2021-09-27 09:42:51 INFO  [Car № 17] Car:28 - Car № 17 : 0 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 18] Car:24 - Car № 18 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 18] ParkingPlace:20 - Parking place № 0is used by Car № 18
+2021-09-27 09:42:51 INFO  [Car № 18] Car:28 - Car № 18 : 0 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 19] Car:24 - Car № 19 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 19] ParkingPlace:20 - Parking place № 0is used by Car № 19
+2021-09-27 09:42:51 INFO  [Car № 14] Car:28 - Car № 14 : 3 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 20] Car:24 - Car № 20 took parking place № 3Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 20] ParkingPlace:20 - Parking place № 3is used by Car № 20
+2021-09-27 09:42:51 INFO  [Car № 15] Car:28 - Car № 15 : 4 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 21] Car:24 - Car № 21 took parking place № 4Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 21] ParkingPlace:20 - Parking place № 4is used by Car № 21
+2021-09-27 09:42:51 INFO  [Car № 12] Car:28 - Car № 12 : 2 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 22] Car:24 - Car № 22 took parking place № 2Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 22] ParkingPlace:20 - Parking place № 2is used by Car № 22
+2021-09-27 09:42:51 INFO  [Car № 13] Car:28 - Car № 13 : 1 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 23] Car:24 - Car № 23 took parking place № 1Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 23] ParkingPlace:20 - Parking place № 1is used by Car № 23
+2021-09-27 09:42:51 INFO  [Car № 19] Car:28 - Car № 19 : 0 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 24] Car:24 - Car № 24 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 24] ParkingPlace:20 - Parking place № 0is used by Car № 24
+2021-09-27 09:42:51 INFO  [Car № 24] Car:28 - Car № 24 : 0 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 25] Car:24 - Car № 25 took parking place № 0Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 25] ParkingPlace:20 - Parking place № 0is used by Car № 25
+2021-09-27 09:42:51 INFO  [Car № 23] Car:28 - Car № 23 : 1 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 26] Car:24 - Car № 26 took parking place № 1Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 26] ParkingPlace:20 - Parking place № 1is used by Car № 26
+2021-09-27 09:42:51 INFO  [Car № 22] Car:28 - Car № 22 : 2 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 27] Car:24 - Car № 27 took parking place № 2Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 27] ParkingPlace:20 - Parking place № 2is used by Car № 27
+2021-09-27 09:42:51 INFO  [Car № 26] Car:28 - Car № 26 : 1 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 28] Car:24 - Car № 28 took parking place № 1Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 28] ParkingPlace:20 - Parking place № 1is used by Car № 28
+2021-09-27 09:42:51 INFO  [Car № 20] Car:28 - Car № 20 : 3 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 29] Car:24 - Car № 29 took parking place № 3Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 29] ParkingPlace:20 - Parking place № 3is used by Car № 29
+2021-09-27 09:42:51 INFO  [Car № 28] Car:28 - Car № 28 : 1 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 30] Car:24 - Car № 30 took parking place № 1Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 30] ParkingPlace:20 - Parking place № 1is used by Car № 30
+2021-09-27 09:42:51 INFO  [Car № 21] Car:28 - Car № 21 : 4 place owner. Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 32] Car:24 - Car № 32 took parking place № 4Parking № 1
+2021-09-27 09:42:51 INFO  [Car № 32] ParkingPlace:20 - Parking place № 4is used by Car № 32
+2021-09-27 09:42:52 INFO  [Car № 27] Car:28 - Car № 27 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 31] Car:24 - Car № 31 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 31] ParkingPlace:20 - Parking place № 2is used by Car № 31
+2021-09-27 09:42:52 INFO  [Car № 25] Car:28 - Car № 25 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 33] Car:24 - Car № 33 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 33] ParkingPlace:20 - Parking place № 0is used by Car № 33
+2021-09-27 09:42:52 INFO  [Car № 29] Car:28 - Car № 29 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 33] Car:28 - Car № 33 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 32] Car:28 - Car № 32 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 34] Car:24 - Car № 34 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 35] Car:24 - Car № 35 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 35] ParkingPlace:20 - Parking place № 3is used by Car № 35
+2021-09-27 09:42:52 INFO  [Car № 34] ParkingPlace:20 - Parking place № 0is used by Car № 34
+2021-09-27 09:42:52 INFO  [Car № 36] Car:24 - Car № 36 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 36] ParkingPlace:20 - Parking place № 4is used by Car № 36
+2021-09-27 09:42:52 INFO  [Car № 30] Car:28 - Car № 30 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 37] Car:24 - Car № 37 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 37] ParkingPlace:20 - Parking place № 1is used by Car № 37
+2021-09-27 09:42:52 INFO  [Car № 37] Car:28 - Car № 37 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 31] Car:28 - Car № 31 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 38] Car:24 - Car № 38 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 38] ParkingPlace:20 - Parking place № 1is used by Car № 38
+2021-09-27 09:42:52 INFO  [Car № 39] Car:24 - Car № 39 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 39] ParkingPlace:20 - Parking place № 2is used by Car № 39
+2021-09-27 09:42:52 INFO  [Car № 36] Car:28 - Car № 36 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 40] Car:24 - Car № 40 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 40] ParkingPlace:20 - Parking place № 4is used by Car № 40
+2021-09-27 09:42:52 INFO  [Car № 34] Car:28 - Car № 34 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 41] Car:24 - Car № 41 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 41] ParkingPlace:20 - Parking place № 0is used by Car № 41
+2021-09-27 09:42:52 INFO  [Car № 39] Car:28 - Car № 39 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 42] Car:24 - Car № 42 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 42] ParkingPlace:20 - Parking place № 2is used by Car № 42
+2021-09-27 09:42:52 INFO  [Car № 40] Car:28 - Car № 40 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 43] Car:24 - Car № 43 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 43] ParkingPlace:20 - Parking place № 4is used by Car № 43
+2021-09-27 09:42:52 INFO  [Car № 35] Car:28 - Car № 35 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 44] Car:24 - Car № 44 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 44] ParkingPlace:20 - Parking place № 3is used by Car № 44
+2021-09-27 09:42:52 INFO  [Car № 42] Car:28 - Car № 42 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 45] Car:24 - Car № 45 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 45] ParkingPlace:20 - Parking place № 2is used by Car № 45
+2021-09-27 09:42:52 INFO  [Car № 45] Car:28 - Car № 45 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 46] Car:24 - Car № 46 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 46] ParkingPlace:20 - Parking place № 2is used by Car № 46
+2021-09-27 09:42:52 INFO  [Car № 38] Car:28 - Car № 38 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 47] Car:24 - Car № 47 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 47] ParkingPlace:20 - Parking place № 1is used by Car № 47
+2021-09-27 09:42:52 INFO  [Car № 41] Car:28 - Car № 41 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 48] Car:24 - Car № 48 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 48] ParkingPlace:20 - Parking place № 0is used by Car № 48
+2021-09-27 09:42:52 INFO  [Car № 43] Car:28 - Car № 43 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 49] Car:24 - Car № 49 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 49] ParkingPlace:20 - Parking place № 4is used by Car № 49
+2021-09-27 09:42:52 INFO  [Car № 49] Car:28 - Car № 49 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 50] Car:24 - Car № 50 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 50] ParkingPlace:20 - Parking place № 4is used by Car № 50
+2021-09-27 09:42:52 INFO  [Car № 44] Car:28 - Car № 44 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 51] Car:24 - Car № 51 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 51] ParkingPlace:20 - Parking place № 3is used by Car № 51
+2021-09-27 09:42:52 INFO  [Car № 50] Car:28 - Car № 50 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 52] Car:24 - Car № 52 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 52] ParkingPlace:20 - Parking place № 4is used by Car № 52
+2021-09-27 09:42:52 INFO  [Car № 47] Car:28 - Car № 47 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 53] Car:24 - Car № 53 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 53] ParkingPlace:20 - Parking place № 1is used by Car № 53
+2021-09-27 09:42:52 INFO  [Car № 46] Car:28 - Car № 46 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 55] Car:24 - Car № 55 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 55] ParkingPlace:20 - Parking place № 2is used by Car № 55
+2021-09-27 09:42:52 INFO  [Car № 48] Car:28 - Car № 48 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 54] Car:24 - Car № 54 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 54] ParkingPlace:20 - Parking place № 0is used by Car № 54
+2021-09-27 09:42:52 INFO  [Car № 53] Car:28 - Car № 53 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 56] Car:24 - Car № 56 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 56] ParkingPlace:20 - Parking place № 1is used by Car № 56
+2021-09-27 09:42:52 INFO  [Car № 51] Car:28 - Car № 51 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 57] Car:24 - Car № 57 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 55] Car:28 - Car № 55 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 57] ParkingPlace:20 - Parking place № 3is used by Car № 57
+2021-09-27 09:42:52 INFO  [Car № 58] Car:24 - Car № 58 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 58] ParkingPlace:20 - Parking place № 2is used by Car № 58
+2021-09-27 09:42:52 INFO  [Car № 52] Car:28 - Car № 52 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 59] Car:24 - Car № 59 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 59] ParkingPlace:20 - Parking place № 4is used by Car № 59
+2021-09-27 09:42:52 INFO  [Car № 56] Car:28 - Car № 56 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 60] Car:24 - Car № 60 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 60] ParkingPlace:20 - Parking place № 1is used by Car № 60
+2021-09-27 09:42:52 INFO  [Car № 58] Car:28 - Car № 58 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 61] Car:24 - Car № 61 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 61] ParkingPlace:20 - Parking place № 2is used by Car № 61
+2021-09-27 09:42:52 INFO  [Car № 59] Car:28 - Car № 59 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 62] Car:24 - Car № 62 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 62] ParkingPlace:20 - Parking place № 4is used by Car № 62
+2021-09-27 09:42:52 INFO  [Car № 54] Car:28 - Car № 54 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 63] Car:24 - Car № 63 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 63] ParkingPlace:20 - Parking place № 0is used by Car № 63
+2021-09-27 09:42:52 INFO  [Car № 61] Car:28 - Car № 61 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 64] Car:24 - Car № 64 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 64] ParkingPlace:20 - Parking place № 2is used by Car № 64
+2021-09-27 09:42:52 INFO  [Car № 57] Car:28 - Car № 57 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 60] Car:28 - Car № 60 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 65] Car:24 - Car № 65 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 66] Car:24 - Car № 66 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 65] ParkingPlace:20 - Parking place № 3is used by Car № 65
+2021-09-27 09:42:52 INFO  [Car № 66] ParkingPlace:20 - Parking place № 1is used by Car № 66
+2021-09-27 09:42:52 INFO  [Car № 65] Car:28 - Car № 65 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 62] Car:28 - Car № 62 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 67] Car:24 - Car № 67 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 68] Car:24 - Car № 68 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 68] ParkingPlace:20 - Parking place № 4is used by Car № 68
+2021-09-27 09:42:52 INFO  [Car № 67] ParkingPlace:20 - Parking place № 3is used by Car № 67
+2021-09-27 09:42:52 INFO  [Car № 68] Car:28 - Car № 68 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 69] Car:24 - Car № 69 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 69] ParkingPlace:20 - Parking place № 4is used by Car № 69
+2021-09-27 09:42:52 INFO  [Car № 63] Car:28 - Car № 63 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 70] Car:24 - Car № 70 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 70] ParkingPlace:20 - Parking place № 0is used by Car № 70
+2021-09-27 09:42:52 INFO  [Car № 64] Car:28 - Car № 64 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 71] Car:24 - Car № 71 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 71] ParkingPlace:20 - Parking place № 2is used by Car № 71
+2021-09-27 09:42:52 INFO  [Car № 71] Car:28 - Car № 71 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 72] Car:24 - Car № 72 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 72] ParkingPlace:20 - Parking place № 2is used by Car № 72
+2021-09-27 09:42:52 INFO  [Car № 70] Car:28 - Car № 70 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 73] Car:24 - Car № 73 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 73] ParkingPlace:20 - Parking place № 0is used by Car № 73
+2021-09-27 09:42:52 INFO  [Car № 66] Car:28 - Car № 66 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 74] Car:24 - Car № 74 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 74] ParkingPlace:20 - Parking place № 1is used by Car № 74
+2021-09-27 09:42:52 INFO  [Car № 67] Car:28 - Car № 67 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 75] Car:24 - Car № 75 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 75] ParkingPlace:20 - Parking place № 3is used by Car № 75
+2021-09-27 09:42:52 INFO  [Car № 72] Car:28 - Car № 72 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 76] Car:24 - Car № 76 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 76] ParkingPlace:20 - Parking place № 2is used by Car № 76
+2021-09-27 09:42:52 INFO  [Car № 73] Car:28 - Car № 73 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 77] Car:24 - Car № 77 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 77] ParkingPlace:20 - Parking place № 0is used by Car № 77
+2021-09-27 09:42:52 INFO  [Car № 69] Car:28 - Car № 69 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 78] Car:24 - Car № 78 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 78] ParkingPlace:20 - Parking place № 4is used by Car № 78
+2021-09-27 09:42:52 INFO  [Car № 78] Car:28 - Car № 78 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 79] Car:24 - Car № 79 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 79] ParkingPlace:20 - Parking place № 4is used by Car № 79
+2021-09-27 09:42:52 INFO  [Car № 76] Car:28 - Car № 76 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 80] Car:24 - Car № 80 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 80] ParkingPlace:20 - Parking place № 2is used by Car № 80
+2021-09-27 09:42:52 INFO  [Car № 74] Car:28 - Car № 74 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 81] Car:24 - Car № 81 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 81] ParkingPlace:20 - Parking place № 1is used by Car № 81
+2021-09-27 09:42:52 INFO  [Car № 77] Car:28 - Car № 77 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 82] Car:24 - Car № 82 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 75] Car:28 - Car № 75 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 82] ParkingPlace:20 - Parking place № 0is used by Car № 82
+2021-09-27 09:42:52 INFO  [Car № 83] Car:24 - Car № 83 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 83] ParkingPlace:20 - Parking place № 3is used by Car № 83
+2021-09-27 09:42:52 INFO  [Car № 81] Car:28 - Car № 81 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 84] Car:24 - Car № 84 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 84] ParkingPlace:20 - Parking place № 1is used by Car № 84
+2021-09-27 09:42:52 INFO  [Car № 82] Car:28 - Car № 82 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 85] Car:24 - Car № 85 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 85] ParkingPlace:20 - Parking place № 0is used by Car № 85
+2021-09-27 09:42:52 INFO  [Car № 80] Car:28 - Car № 80 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 86] Car:24 - Car № 86 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 86] ParkingPlace:20 - Parking place № 2is used by Car № 86
+2021-09-27 09:42:52 INFO  [Car № 79] Car:28 - Car № 79 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 87] Car:24 - Car № 87 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 87] ParkingPlace:20 - Parking place № 4is used by Car № 87
+2021-09-27 09:42:52 INFO  [Car № 87] Car:28 - Car № 87 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 88] Car:24 - Car № 88 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 88] ParkingPlace:20 - Parking place № 4is used by Car № 88
+2021-09-27 09:42:52 INFO  [Car № 84] Car:28 - Car № 84 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 89] Car:24 - Car № 89 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 89] ParkingPlace:20 - Parking place № 1is used by Car № 89
+2021-09-27 09:42:52 INFO  [Car № 83] Car:28 - Car № 83 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 90] Car:24 - Car № 90 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 90] ParkingPlace:20 - Parking place № 3is used by Car № 90
+2021-09-27 09:42:52 INFO  [Car № 86] Car:28 - Car № 86 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 91] Car:24 - Car № 91 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 91] ParkingPlace:20 - Parking place № 2is used by Car № 91
+2021-09-27 09:42:52 INFO  [Car № 90] Car:28 - Car № 90 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 92] Car:24 - Car № 92 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 92] ParkingPlace:20 - Parking place № 3is used by Car № 92
+2021-09-27 09:42:52 INFO  [Car № 88] Car:28 - Car № 88 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 85] Car:28 - Car № 85 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 93] Car:24 - Car № 93 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 93] ParkingPlace:20 - Parking place № 4is used by Car № 93
+2021-09-27 09:42:52 INFO  [Car № 94] Car:24 - Car № 94 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 94] ParkingPlace:20 - Parking place № 0is used by Car № 94
+2021-09-27 09:42:52 INFO  [Car № 91] Car:28 - Car № 91 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 95] Car:24 - Car № 95 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 95] ParkingPlace:20 - Parking place № 2is used by Car № 95
+2021-09-27 09:42:52 INFO  [Car № 89] Car:28 - Car № 89 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 96] Car:24 - Car № 96 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 96] ParkingPlace:20 - Parking place № 1is used by Car № 96
+2021-09-27 09:42:52 INFO  [Car № 93] Car:28 - Car № 93 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 97] Car:24 - Car № 97 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 97] ParkingPlace:20 - Parking place № 4is used by Car № 97
+2021-09-27 09:42:52 INFO  [Car № 92] Car:28 - Car № 92 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 98] Car:24 - Car № 98 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 98] ParkingPlace:20 - Parking place № 3is used by Car № 98
+2021-09-27 09:42:52 INFO  [Car № 94] Car:28 - Car № 94 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 96] Car:28 - Car № 96 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 99] Car:24 - Car № 99 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 100] Car:24 - Car № 100 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 99] ParkingPlace:20 - Parking place № 0is used by Car № 99
+2021-09-27 09:42:52 INFO  [Car № 100] ParkingPlace:20 - Parking place № 1is used by Car № 100
+2021-09-27 09:42:52 INFO  [Car № 95] Car:28 - Car № 95 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 98] Car:28 - Car № 98 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 97] Car:28 - Car № 97 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 102] Car:24 - Car № 102 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 102] ParkingPlace:20 - Parking place № 3is used by Car № 102
+2021-09-27 09:42:52 INFO  [Car № 101] Car:24 - Car № 101 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 101] ParkingPlace:20 - Parking place № 2is used by Car № 101
+2021-09-27 09:42:52 INFO  [Car № 103] Car:24 - Car № 103 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 103] ParkingPlace:20 - Parking place № 4is used by Car № 103
+2021-09-27 09:42:52 INFO  [Car № 100] Car:28 - Car № 100 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 104] Car:24 - Car № 104 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 104] ParkingPlace:20 - Parking place № 1is used by Car № 104
+2021-09-27 09:42:52 INFO  [Car № 103] Car:28 - Car № 103 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 105] Car:24 - Car № 105 took parking place № 4Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 105] ParkingPlace:20 - Parking place № 4is used by Car № 105
+2021-09-27 09:42:52 INFO  [Car № 101] Car:28 - Car № 101 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 106] Car:24 - Car № 106 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 106] ParkingPlace:20 - Parking place № 2is used by Car № 106
+2021-09-27 09:42:52 INFO  [Car № 110] Car:25 - Car №110 -> time is up. Going to another parking place.
+2021-09-27 09:42:52 INFO  [Car № 109] Car:25 - Car №109 -> time is up. Going to another parking place.
+2021-09-27 09:42:52 INFO  [Car № 109] Car:24 - Car № 109 took parking place № 1Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 109] ParkingPlace:20 - Parking place № 1is used by Car № 109
+2021-09-27 09:42:52 INFO  [Car № 108] Car:25 - Car №108 -> time is up. Going to another parking place.
+2021-09-27 09:42:52 INFO  [Car № 107] Car:25 - Car №107 -> time is up. Going to another parking place.
+2021-09-27 09:42:52 INFO  [Car № 107] Car:24 - Car № 107 took parking place № 3Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 107] ParkingPlace:20 - Parking place № 3is used by Car № 107
+2021-09-27 09:42:52 INFO  [Car № 108] Car:24 - Car № 108 took parking place № 2Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 110] Car:24 - Car № 110 took parking place № 0Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 108] ParkingPlace:20 - Parking place № 2is used by Car № 108
+2021-09-27 09:42:52 INFO  [Car № 110] ParkingPlace:20 - Parking place № 0is used by Car № 110
+2021-09-27 09:42:52 INFO  [Car № 105] Car:28 - Car № 105 : 4 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 99] Car:28 - Car № 99 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 102] Car:28 - Car № 102 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 104] Car:28 - Car № 104 : 1 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 107] Car:28 - Car № 107 : 3 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 108] Car:28 - Car № 108 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 106] Car:28 - Car № 106 : 2 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 110] Car:28 - Car № 110 : 0 place owner. Parking № 1
+2021-09-27 09:42:52 INFO  [Car № 109] Car:28 - Car № 109 : 1 place owner. Parking № 1
